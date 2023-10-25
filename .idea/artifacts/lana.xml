@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="lana">
+    <output-path>$PROJECT_DIR$/out/artifacts/lana</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="dev.bemoty.lana.Main" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="lana.jar">
+        <element id="module-output" name="lana" />
+        <element id="library" level="project" name="Maven: lc.kra.system:system-hook:3.3" />
+      </element>
+    </root>
+  </artifact>
+</component>
